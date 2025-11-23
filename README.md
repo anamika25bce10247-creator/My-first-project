@@ -18,7 +18,7 @@ This project is a python implementation of the Caesar Cipher, one of the oldest 
 5. No external libraries.
 6. Beginner friendly cryptography 
 # Requirments 
-1.Python 3.x installed on the system to run the program.
+1. Python 3.x installed on the system to run the program.
 2. Basic knowledge of Python syntax, input/output functions, and string manipulation.
 3. User credentials (username: "vitb", password: "vitb@123") for login authentication.
 4. Understanding of the Caesar cipher concept (shifting letters in the alphabet).
