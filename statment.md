@@ -4,22 +4,22 @@ The problem is to design a simple Python program that can encrypt and decrypt me
 
 # Scope of the Project
 
-The program focuses only on implementing the Caesar Cipher algorithm.
+1. The program focuses only on implementing the Caesar Cipher algorithm.
 
-It handles lowercase alphabet encryption and decryption.
+2. It handles lowercase alphabet encryption and decryption.
 
-It uses Python’s built-in features without external libraries.
+3. It uses Python’s built-in features without external libraries.
 
-The scope is educational—helping beginners learn about basic cryptography and string manipulation.
+4. The scope is educational—helping beginners learn about basic cryptography and string manipulation.
 
-It is not designed for real-world secure communication.
+5. It is not designed for real-world secure communication.
 
 # Targeted Users
 
-Students learning programming, cryptography, or Python basics.
+1. Students learning programming, cryptography, or Python basics.
 
-Beginners who want to understand how simple ciphers work.
+2. Beginners who want to understand how simple ciphers work.
 
-Teachers who need an easy demonstration of encryption concepts.
+3. Teachers who need an easy demonstration of encryption concepts.
 
-Coding enthusiasts experimenting with classic algorithms.
+4. Coding enthusiasts experimenting with classic algorithms.
