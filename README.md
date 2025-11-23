@@ -25,11 +25,8 @@ Python
 <img width="409" height="117" alt="Screenshot 2025-11-23 165036" src="https://github.com/user-attachments/assets/9985fca5-f5a7-48e3-b8a9-e5239e3cfd99" />
 
 <img width="399" height="91" alt="Screenshot 2025-11-23 173556" src="https://github.com/user-attachments/assets/412e0927-5519-4ed4-8a1b-47d933d9cd20" />
-# Limitations 
-1. Low security
-2. Works only on alphabets
-3. Case insensitivity
-4. Simple substitution only
-# Conclusion
+
+
+# CONCLUSION
 The Caesar Cipher project successfully demonstrates how a simple yet historically significant encryption technique can be implemented using Python. By allowing users to encrypt and decrypt messages through letter shifting, the program provides a clear understanding of the basic principles of substitution ciphers. This project highlights important programming concepts such as string manipulation, modular arithmetic, and the use of translation tables, making it an excellent beginner-friendly introduction to cryptography. Overall, the project achieves its objective of showing how classical encryption works while remaining easy to use, efficient, and educational.
    
