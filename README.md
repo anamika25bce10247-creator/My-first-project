@@ -6,14 +6,14 @@ It shifts each letter in the message by fixed numbers.
 example:
 with the fixed number = 3
 "a"→"d"
-"x"→"a"
+  "x"→"a"
 # Features of this project 
 1.Encryption of messages. 
-2.Decryption of messages.
-3.User friendly input system.
-4.Handles any shift.
-5.No external libraries.
-6.Beginner friendly cryptography 
+ 2.Decryption of messages.
+   3.User friendly input system.
+     4.Handles any shift.
+       5.No external libraries.
+         6.Beginner friendly cryptography 
 # Requirments 
 Python
 
