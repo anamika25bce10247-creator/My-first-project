@@ -18,7 +18,7 @@ with the fixed number = 3
 Python
 # module used 
  string 
-Only Python's built-in 'string' module is used.
+
 # Screenshots of the output 
 <img width="501" height="120" alt="Screenshot 2025-11-23 164939" src="https://github.com/user-attachments/assets/d6b624f5-5c6b-43b3-b4c1-d930f572120c" />
 
