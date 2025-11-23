@@ -5,8 +5,8 @@ This project is a python implementation of the Caesar Cipher, one of the oldest 
 It shifts each letter in the message by fixed numbers.
 example:
 with the fixed number = 3
-"a"→"d"
-  "x"→"a"
+1. "a"→"d"
+2. "x"→"a"
 # Features of this project 
 1. Encryption of messages.
 2. Decryption of messages.
@@ -16,7 +16,8 @@ with the fixed number = 3
 6. Beginner friendly cryptography 
 # Requirments 
 Python
-
+# module used 
+ string 
 Only Python's built-in 'string' module is used.
 # Screenshots of the output 
 <img width="501" height="120" alt="Screenshot 2025-11-23 164939" src="https://github.com/user-attachments/assets/d6b624f5-5c6b-43b3-b4c1-d930f572120c" />
