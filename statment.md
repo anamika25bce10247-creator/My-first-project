@@ -23,3 +23,12 @@ The problem is to design a simple Python program that can encrypt and decrypt me
 3. Teachers who need an easy demonstration of encryption concepts.
 
 4. Coding enthusiasts experimenting with classic algorithms.
+# HIGH LEVEL FEATURES 
+
+1. User authentication with username and password for access control.
+2. Interactive console-based interface for user input.
+3. Option to encrypt or decrypt messages using the Caesar cipher method.
+4. Customizable shift key to specify the degree of letter shifting.
+5. Automatic handling of lowercase alphabets with wrap-around shifting.
+6. Continuous operation allowing multiple encrypt/decrypt actions until exit.
+7. Clear prompts and feedback for user actions including error handling for invalid choices.
