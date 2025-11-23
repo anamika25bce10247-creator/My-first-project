@@ -1,6 +1,6 @@
 # CAESAR CIPHER
 # OBJECTIVE
-This prohect is a python implementation of the Caesar Cipher, one of the oldest and most famous encryption techniques.It allows users to encrypt and decrypt text by shifting letters by a given key value.
+This project is a python implementation of the Caesar Cipher, one of the oldest and most famous encryption techniques.It allows users to encrypt and decrypt text by shifting letters by a given key value.
 # How it works 
 It shifts each letter in the message by fixed numbers.
 example:
