@@ -23,3 +23,4 @@ Only Python's built-in 'string' module is used.
 
 <img width="409" height="117" alt="Screenshot 2025-11-23 165036" src="https://github.com/user-attachments/assets/9985fca5-f5a7-48e3-b8a9-e5239e3cfd99" />
 
+<img width="399" height="91" alt="Screenshot 2025-11-23 173556" src="https://github.com/user-attachments/assets/412e0927-5519-4ed4-8a1b-47d933d9cd20" />
