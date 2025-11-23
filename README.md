@@ -25,7 +25,8 @@ This project is a python implementation of the Caesar Cipher, one of the oldest 
 5. Support for lowercase English letters only in encryption/decryption.
 6. Ability to input messages, choose between encrypt or decrypt, and specify the shift key.
 7. Loop control to allow multiple operations until the user opts to exit.
-# Module used = 
+# Module used 
+
 String: This built-in Python module is used to access the constant (string.ascii_lowercase) , which provides the alphabet for shifting letters during encryption and decryption.
 
 # Screenshots of the output 
